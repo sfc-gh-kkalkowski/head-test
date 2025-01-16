@@ -3,7 +3,7 @@ import pandas as pd
 
 
 def main():
-    st.title("Interactive Data Browser")
+    st.title("Interactive Data Browser 33")
 
     # Load data
     data = load_data()
